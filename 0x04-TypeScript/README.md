@@ -1,10 +1,9 @@
 # Project 0x04: TypeScript
 
-This ongoing TypeScript project, led by Johann Kerbrat, an Engineering Manager at Uber Works, started on January 10, 2024, at 6:00 AM, and must conclude by January 13, 2024, at 6:00 AM. The project involves exploring TypeScript fundamentals, such as basic types, interfaces, classes, functions, and advanced TypeScript concepts. Manual QA review is required, and resources for learning TypeScript are provided.
+This ongoing TypeScript project, The project involves exploring TypeScript fundamentals, such as basic types, interfaces, classes, functions, and advanced TypeScript concepts. Manual QA review is required, and resources for learning TypeScript are provided.
 
 ## Learning Objectives
 
-By the end of this project, participants are expected to:
 
 - Explain basic types in TypeScript
 - Understand and work with interfaces, classes, and functions
