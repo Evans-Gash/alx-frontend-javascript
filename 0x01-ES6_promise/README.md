@@ -1,7 +1,3 @@
-Certainly! Here's a more concise version with a similar format:
-
----
-
 **0x01. ES6 Promises**
 
 This project guides you through the world of ES6 Promises in JavaScript, providing practical exercises to reinforce your understanding. Below are the tasks you'll encounter:
