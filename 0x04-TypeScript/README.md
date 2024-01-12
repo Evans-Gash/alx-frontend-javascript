@@ -43,5 +43,3 @@ By the end of this project, participants are expected to:
 10. **Update task_4/js/main.ts:** Use the created interfaces and classes to set up constants and objects representing Cpp, Java, and React subjects, and demonstrate their functionalities.
 
 11. **Brand convention & Nominal typing:** Create interfaces for MajorCredits and MinorCredits with a brand property, and implement functions to sum major and minor credits.
-
-Refer to the respective task directories in the GitHub repository "alx-frontend-javascript/0x04-TypeScript" for detailed instructions and code files.
